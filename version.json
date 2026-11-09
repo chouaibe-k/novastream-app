@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.0.0/NovaStream-IPTV.apk",
-  "releaseNotes": "Initial Release:\n\u2022 Full Fire TV / Firestick Remote D-Pad Navigation\n\u2022 Android Mobile phone & tablet UI\n\u2022 M3U / M3U8 Playlist URL & Xtream Codes API support\n\u2022 In-app auto-update notifications"
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.1.0/NovaStream-IPTV.apk",
+  "releaseNotes": "\u2022 Complete Modern UI overhaul with obsidian dark glassmorphism\n\u2022 Added 'Paste from Clipboard' for effortless M3U subscription setup\n\u2022 New high-visibility Live TV indicators, channel number badges, and clock\n\u2022 Improved Firestick remote D-Pad navigation with neon glow focus\n\u2022 Enhanced stream stability and quick channel drawer"
 }
