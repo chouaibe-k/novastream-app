@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.1.0/NovaStream-IPTV.apk",
-  "releaseNotes": "\u2022 Complete Modern UI overhaul with obsidian dark glassmorphism\n\u2022 Added 'Paste from Clipboard' for effortless M3U subscription setup\n\u2022 New high-visibility Live TV indicators, channel number badges, and clock\n\u2022 Improved Firestick remote D-Pad navigation with neon glow focus\n\u2022 Enhanced stream stability and quick channel drawer"
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.2.0/NovaStream-IPTV.apk",
+  "releaseNotes": "\u2022 Fixed Xtream Codes & M3U login timeout error (added fast JSON API player_api.php)\n\u2022 Added IPTVSmartersPlayer User-Agent & HTTP-to-HTTPS redirect support\n\u2022 Fixed header clock and search bar layout on mobile screens\n\u2022 Extended streaming buffer & socket timeouts to 60s"
 }
