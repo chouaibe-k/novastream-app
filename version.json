@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.0.0/NovaStream-IPTV.apk",
+  "releaseNotes": "Initial Release:\n\u2022 Full Fire TV / Firestick Remote D-Pad Navigation\n\u2022 Android Mobile phone & tablet UI\n\u2022 M3U / M3U8 Playlist URL & Xtream Codes API support\n\u2022 In-app auto-update notifications"
+}
