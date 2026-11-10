@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.3.0/NovaStream-IPTV.apk",
-  "releaseNotes": "\u2022 Automatic IPTV Port Discovery (automatically tests ports 8080, 80, 25461, 8000, 8880, 2095, 443)\n\u2022 Self-signed SSL certificate support for IPTV servers\n\u2022 Upgraded In-App Auto-Updater with multi-redirect support & cache busting\n\u2022 Fixed header clock & playlist bar layout"
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.4.0/NovaStream-IPTV.apk",
+  "releaseNotes": "v1.4.0: Netflix UI Overhaul (Featured Live Hero Banner, #000000 Pure Black & #E50914 Netflix Red) + Built-in VPN & Anti-Block Shield (Encrypted DNS-over-HTTPS, SOCKS5/HTTP Proxy, and System VPN integration)."
 }
