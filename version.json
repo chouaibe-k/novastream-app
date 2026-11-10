@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.2.0/NovaStream-IPTV.apk",
-  "releaseNotes": "\u2022 Fixed Xtream Codes & M3U login timeout error (added fast JSON API player_api.php)\n\u2022 Added IPTVSmartersPlayer User-Agent & HTTP-to-HTTPS redirect support\n\u2022 Fixed header clock and search bar layout on mobile screens\n\u2022 Extended streaming buffer & socket timeouts to 60s"
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/chouaibe-k/novastream-app/releases/download/v1.3.0/NovaStream-IPTV.apk",
+  "releaseNotes": "\u2022 Automatic IPTV Port Discovery (automatically tests ports 8080, 80, 25461, 8000, 8880, 2095, 443)\n\u2022 Self-signed SSL certificate support for IPTV servers\n\u2022 Upgraded In-App Auto-Updater with multi-redirect support & cache busting\n\u2022 Fixed header clock & playlist bar layout"
 }
